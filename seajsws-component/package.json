@@ -1,7 +1,7 @@
 {
   "name": "seajsws-component",
   "version": "1.0.0",
-  "description": "seajsws_component",
+  "description": "seajsws-component",
   "main": "lib/index.js",
   "author": {
     "name": "Blake Schwartz",

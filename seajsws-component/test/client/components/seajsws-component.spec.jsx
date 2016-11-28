@@ -4,9 +4,9 @@
 import React from "react";
 import { shallow } from "enzyme";
 
-import SeajswsComponent from "src/components/seajsws_component";
+import SeajswsComponent from "src/components/seajsws-component";
 
-describe("components/seajsws_component", () => {
+describe("components/seajsws-component", () => {
 
   describe("Mounting", () => {
 
